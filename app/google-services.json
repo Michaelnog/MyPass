@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478373856463",
+    "project_id": "mypass2-c9154",
+    "storage_bucket": "mypass2-c9154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478373856463:android:33e93d2893da5b8a9e23ba",
+        "android_client_info": {
+          "package_name": "com.example.mypass2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-UDfuDgEczpIE4AjbpxWITillL0F7GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
